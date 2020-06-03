@@ -8,4 +8,4 @@ Mais nous allons donc __jouer__.
 Un petit *canard* joueur qui n'aimait pas dormir.
 Il voulait passer sa vie à __jouer__, sans écouter les conseils de sa *maman canard*.
 Mais un beau jour, rattrapé par la fatigue :sleepy:, il s'endormi durant plusieurs années :zzz:.
-Il se réveilla dans **un nouveau monde**, émerveillés il parti à la découverte de celui-ci, qu'allait-il y trouver :dolphin: :dragon: ?
+Il se réveilla dans **un nouveau monde**, émerveillé, il parti à la découverte de celui-ci, qu'allait-il y trouver :dolphin: :dragon: ?
