@@ -9,3 +9,6 @@ Un petit *canard* joueur qui n'aimait pas dormir.
 Il voulait passer sa vie à __jouer__, sans écouter les conseils de sa *maman canard*.
 Mais un beau jour, rattrapé par la fatigue :sleepy:, il s'endormi durant plusieurs années :zzz:.
 Il se réveilla dans **un nouveau monde**, émerveillé, il parti à la découverte de celui-ci, qu'allait-il y trouver :dolphin: :dragon: ?
+
+Le petit *cannard* en quête d'aventure trouva sur son chemin un ennorme *crapeau* qui se presanta comme **Gamabunta**.
+Il lui dira qu'il est un élu et qu'il l'emmenera avec lui aux __Mont Myôboku__ pour lui enseigner l'art secret de maitre l'hermite. Le petit *cannard* soutilla de joie en vue de cette grande aventure qui l'attendais mais soudain.... Il se reveilla de nouveau.
