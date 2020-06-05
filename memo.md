@@ -1,6 +1,14 @@
 # Fixer les acquis en git
 
 
+## configuration & clef
+
+
+**git config --global user.email "[email address]"** configufation 
+
+**ssh-keygen -t rsa -b 4096 -C "your_email@example.com"** Pour la clé SSH
+
+
 ## les commandes utiliser 
 
 
@@ -53,5 +61,8 @@ __git add *__ rajouter tout les fichiers
 
 
 **git pull** permet de charger les nouveautés.
+
+**git revert** retour en arrière dans une modification 
+>commande spécial Loïc \o/
 
 
