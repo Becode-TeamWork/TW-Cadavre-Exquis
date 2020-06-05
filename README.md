@@ -21,3 +21,5 @@ Il lui dira qu'il est un élu et qu'il l'emmènera avec lui aux __Mont Myôboku_
 Se réveiller dans une réalité où les **États-Unis** sont gouvernés par **Donald Trump** qui ~~magrets~~ malgré son prénom, lui n'est pas un **__gentil canard__**. Un monde où les **jeunes filles** deviennent __hystériques__ juste en citant les trois lettres **BTS** et où **Philippe Etchebest** a fait sombrer en __dépression__ tous les ~~terroristes~~ **opportunistes** de la **gastronomie**.
 
 _sans faute_
+
+test
