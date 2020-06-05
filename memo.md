@@ -11,7 +11,7 @@
 ### création d'une branche 
 
 **git branch nombranche** création d'une branche
-**git chockout -b nombranche** création d'une branche et se place dans la branche créer
+**git checkout -b nombranche** création d'une branche et se place dans la branche créer
 
 ### rajouter fichier
 
@@ -22,7 +22,7 @@
 
 ### rajouter modification sur une autre branche 
 
-**git chockout nombranche** aller sur une autre branche
+**git checkout nombranche** aller sur une autre branche
 **git merge nombranche** merge la branche à cloner
 **git commit -m "commentaire"** ajout d'un commentaire
 **git push --set-upstream origin nombranche** rajout sur le serveur 
