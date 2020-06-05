@@ -30,7 +30,7 @@
 
 **git add nomfichier** rajout fichier
 
-**git add *** rajouter tout les fichiers
+**git add** rajouter tout les fichiers
 
 **git commit -m "commentaire"** rajouter d'un commentaire
 
