@@ -1,6 +1,12 @@
 # CADAVRE EXQUIS
 > Leearn to work on same project remotely
 
+## Collaborators
+:star:[Aurore Limage](https://github.com/riizbae)   
+:star:[Alksandra Slowik](https://github.com/88aleksandra88)  
+:star:[Bastien Dewerse](https://github.com/DewerseB)  
+:star:[Loïc Hobe](https://github.com/loichobe) 
+
 ## Index
 - [Description](#description) 
 - [Achievements](#achievements)
